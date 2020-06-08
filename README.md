@@ -1,7 +1,8 @@
 # Investment Portfolio Financial Planning Project (ORF435)
-A comparison of various portfolio allocations for achieving optimally pursuing down payment and retirement objectives.<br>
+A comparison of various portfolio allocations for achieving optimally pursuing down payment and retirement objectives.
+<br>
 [Final Project PDF](https://github.com/nicholaskim6/financial-planning-ORF435/blob/master/ORF435_Final_Project.pdf)
-<br><br>
+<br>
 ## Problem Synopsis
 "In our final project, we will work on the investment planning problem for Kim family. Angela Kim is Marcus’s wife and they plan to save for retirement and condo down payment. Mr.and Mrs. Kim are both 25 years old now and they aim to retire at 67, possibly deferred to 70. The down payment is $275,000 that needs to be saved in 10 years.
 <br><br>
