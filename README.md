@@ -1,6 +1,6 @@
 # Investment Portfolio Financial Planning Project (ORF435)
 A comparison of various portfolio allocations for achieving optimally pursuing down payment and retirement objectives.
-<br>
+<br><br>
 [Final Project PDF](https://github.com/nicholaskim6/financial-planning-ORF435/blob/master/ORF435_Final_Project.pdf)
 <br>
 ## Problem Synopsis
